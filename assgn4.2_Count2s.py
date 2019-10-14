@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 ## Name of program: assgn4.2_Count2s.py
-## Fucntion: Reads a number and counts the number of 2s in it.
+## Fucntion: Reads a number and counts the number occurrences of a user input number/character in it.
 ## Author: Chandra Sarkar
 
 ### takes input of the number 112345678911234566 from user ###
