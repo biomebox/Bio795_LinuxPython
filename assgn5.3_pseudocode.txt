@@ -1,0 +1,16 @@
+
+### Write the pseudocode to do the following.
+### Create a list of numbers (any numbers you like).
+### Then loop through the items in the list adding 1 to every number and print those numbers.
+
+
+Generate a list of numbers either manually or using a python function like list and range.
+
+For every number in that list,
+    Print the number
+    Add 1 to the number
+    Print the new number
+    Add the new number to a new list (initialize an empty list before the loop)
+
+Print both the old and the new list
+
