@@ -1,0 +1,23 @@
+
+Make a dictionary with the following information 
+    (where animal names are the keys and their weights are the corresponding values in gms):
+    {
+    "dog" = 30000,
+    "possum" = 2000,
+    "cat" = 4500,
+    "hummingbird" = 12
+    "bat" = 18
+    }
+
+Print out only the keys of the dictionary. #print (dictionary.keys())
+
+Put all the names of the animals in a list. #
+
+For an animal in the list,
+    Print the name of the animal
+    If the animal weighs more than 20gms
+        Print 'big'
+    If the animal weighs less than 20 grams
+        Print 'small'
+
+
