@@ -1,0 +1,12 @@
+
+Open the file Bloom et al.
+
+Read and ignore the first line (header line).
+
+Read rest of the lines, and for each line:
+    Break the line into a list with each value as a list object.
+    Print the taxon name (first object in the list) and their diadromous state (the last object in the list).
+    Add the float values of log body size to obtain a total value for all organisms (initiate the variable outside the loop).
+
+
+Print the sum of the logbody sizes for all the organisms.
