@@ -1,0 +1,11 @@
+
+
+Open the file regex.practice1.fasta for reading.
+Open a new file for writing.
+
+Read one line from regex.practice1.fasta at a time, and for each line:
+    Grab the name row and read the numeric string at the beginning.
+    Replace the name row with the words Homo_sapiens and their respective numeric string without spaces.
+    Write the line (modified or unmodified) in a new file.
+
+Close both files.
