@@ -1,0 +1,92 @@
+collector,specimen_ID,genus,species,order,sex,mass (g),day,date_ISO,time,timezone,country,departament,municipio,locality,longitude,latitude,elevation,ectoparasite_sample,ectoparsite_ sampling_method,ecotparasite_box_location_ cold_storage,ectoparasites_box,lice_total,feather_mites_total,ticks_total,flies_total,fleas_total
+GAL,1,Chloroceryle,inda,Coraciiformes,U,52,Sun,2014-11-16,00:00:00,PST,Colombia,Meta,PuertoGaitan,Puerto Gaitan,NA,NA,141,YES,powder,Universidad Icesi,"P2,I8",2.0,0.0,0,0,0
+GAL,2,Turdus,ignobilis,Passeriformes,U,45.8,Tue,2014-10-28,00:00:00,PDT,Colombia,Meta,PuertoGaitan,Puerto Gaitan,NA,NA,141,YES,powder,Universidad Icesi,"P2,G2",30.0,0.0,0,0,0
+GAL,2,Ramphocelus,carbo,Passeriformes,U,23,Fri,2015-3-27,00:00:00,PDT,Colombia,Meta,PuertoGaitan,Puerto Gaitan,NA,NA,141,YES,powder,Universidad Icesi,"P2,G6",4.0,0.0,0,0,0
+GAL,2,Chloroceryle,aenea,Coraciiformes,U,12.75,Fri,2015-3-27,00:00:00,PDT,Colombia,Meta,PuertoGaitan,Puerto Gaitan,NA,NA,141,YES,powder,Universidad Icesi,"E1,J8",0.0,0.0,0,0,0
+GAL,2,Coccycua,minuta,Cuculiformes,U,34,Fri,2015-3-27,00:00:00,PDT,Colombia,Meta,PuertoGaitan,Puerto Gaitan,NA,NA,141,YES,powder,Universidad Icesi,"E1,J10",0.0,0.0,0,0,0
+GAL,2,Chloroceryle,aenea,Coraciiformes,U,12.75,Fri,2015-3-27,00:00:00,PDT,Colombia,Meta,PuertoGaitan,Puerto Gaitan,NA,NA,141,YES,powder,Universidad Icesi,"E1,J8;P2,H4",3.0,0.0,0,0,0
+GAL,2,Turdus,ignobilis,Passeriformes,U,45.8,Tue,2014-10-28,00:00:00,PDT,Colombia,Meta,PuertoGaitan,Puerto Gaitan,NA,NA,141,YES,powder,Universidad Icesi,"P2,G2;P2,J4",30.0,0.0,0,0,0
+GAL,3,Dendroplex,picus,Passeriformes,U,35,Tue,2014-8-5,00:00:00,PDT,Colombia,Meta,Villavicencio,Villavicencio,NA,NA,420,YES,powder,Universidad Icesi,"E1,H4",0.0,0.0,6,0,0
+GAL,3,Ramphocelus,carbo,Passeriformes,U,21.95,Wed,2014-10-29,00:00:00,PDT,Colombia,Meta,PuertoGaitan,Puerto Gaitan,NA,NA,141,YES,powder,Universidad Icesi,"P2,H6",8.0,0.0,0,0,0
+GAL,4,Ramphocelus,carbo,Passeriformes,U,22,Fri,2013-3-8,00:00:00,PST,Colombia,Meta,PuertoGaitan,Puerto Gaitan,NA,NA,213,YES,powder,Universidad Icesi,"P2,B5",8.0,0.0,0,0,0
+GAL,6,Turdus,nudigenis,Passeriformes,U,59,Sun,2013-3-10,00:00:00,PST,Colombia,Meta,PuertoGaitan,Puerto Gaitan,NA,NA,213,YES,powder,Universidad Icesi,"P2,E6",9.0,0.0,0,0,0
+GAL,6,Sturnella,militaris,Passeriformes,U,51,Thu,2015-3-26,00:00:00,PDT,Colombia,Meta,PuertoGaitan,Puerto Gaitan,NA,NA,141,YES,powder,Universidad Icesi,"E1,J7",0.0,0.0,1,0,0
+GAL,11,Piaya,cayana,Cuculiformes,U,95,Sun,2013-3-10,00:00:00,PST,Colombia,Meta,PuertoGaitan,Puerto Gaitan,NA,NA,213,YES,powder,Universidad Icesi,"P2,C5",16.0,0.0,0,0,0
+GAL,19,Dendrocincla,fuliginosa,Passeriformes,U,33,Mon,2014-5-5,00:00:00,PDT,Colombia,Meta,PuertoGaitan,Puerto Gaitan,NA,NA,213,YES,powder,Universidad Icesi,"E1,J3",0.0,over 5,0,0,0
+GAL,20,Ramphocelus,carbo,Passeriformes,U,30,Sat,2014-8-9,00:00:00,PDT,Colombia,Meta,Villavicencio,Villavicencio,NA,NA,420,YES,powder,Universidad Icesi,"P2,a4",4.0,0.0,0,0,0
+GAL,20,Ramphocelus,carbo,Passeriformes,U,51,Thu,2015-3-26,00:00:00,PDT,Colombia,Meta,PuertoGaitan,Puerto Gaitan,NA,NA,141,YES,powder,Universidad Icesi,"P2,G8",4.0,0.0,0,0,0
+GAL,21,Dendrocincla,fuliginosa,Passeriformes,U,43.5,Wed,2014-8-6,00:00:00,PDT,Colombia,Meta,Villavicencio,Villavicencio,NA,NA,420,YES,powder,Universidad Icesi,"E1,H2",0.0,many,0,0,0
+GAL,21,Ramphocelus,carbo,Passeriformes,U,,Sat,2014-8-9,00:00:00,PDT,Colombia,Meta,Villavicencio,Villavicencio,NA,NA,420,YES,powder,Universidad Icesi,"E1,H3",0.0,few,0,0,0
+GAL,21,Elaenia,flavogaster,Passeriformes,U,24,Tue,2014-5-20,00:00:00,PDT,Colombia,Meta,PuertoGaitan,Puerto Gaitan,NA,NA,141,YES,powder,Universidad Icesi,"P2,G4",2.0,0.0,0,0,0
+GAL,23,Calidris,minuta,Charadriiformes,U,21.5,Thu,2015-3-26,00:00:00,PDT,Colombia,Meta,PuertoGaitan,Puerto Gaitan,NA,NA,141,YES,powder,Universidad Icesi,"P2,G7",10.0,0.0,0,0,0
+GAL,24,Ramphocelus,carbo,Passeriformes,U,,Mon,2015-1-12,00:00:00,PST,Colombia,Guaviare,SanJoseDelGuaviare,San Jose del Guaviare,NA,NA,NA,YES,powder,Universidad Icesi,"P2,a2",8.0,2.0,0,0,0
+GAL,28,Leptopogon,amaurocephalus,Passeriformes,U,12.25,Tue,2013-12-3,00:00:00,PST,Colombia,Meta,PuertoGaitan,Puerto Gaitan,NA,NA,213,YES,powder,Universidad Icesi,"P2,C9",27.0,0.0,0,0,0
+GAL,30,Tangara,cayana,Passeriformes,U,18,Wed,2013-12-4,00:00:00,PST,Colombia,Meta,PuertoGaitan,Puerto Gaitan,NA,NA,213,YES,powder,Universidad Icesi,"P2,C8",1.0,0.0,0,0,0
+GAL,35,Saltator,coerulescens,Passeriformes,U,,Tue,2014-5-20,00:00:00,PDT,Colombia,Meta,PuertoGaitan,Puerto Gaitan,NA,NA,141,YES,powder,Universidad Icesi,"P2,F10;P2,B11",32.0,0.0,0,0,0
+GAL,37,Tangara,cayana,Passeriformes,U,18,Wed,2014-5-21,00:00:00,PDT,Colombia,Meta,PuertoGaitan,Puerto Gaitan,NA,NA,141,YES,powder,Universidad Icesi,"P2,I10",4.0,0.0,0,0,0
+GAL,38,Tangara,cayana,Passeriformes,U,17,Wed,2014-5-21,00:00:00,PDT,Colombia,Meta,PuertoGaitan,Puerto Gaitan,NA,NA,141,YES,powder,Universidad Icesi,"P2,J2",4.0,0.0,0,0,0
+GAL,44,Tangara,cayana,Passeriformes,U,24,Thu,2014-8-7,00:00:00,PDT,Colombia,Meta,Villavicencio,Villavicencio,NA,NA,420,YES,powder,Universidad Icesi,"P2,a1",35.0,0.0,0,0,0
+GAL,45,Turdus,leucomelas,Passeriformes,U,66,Wed,2014-8-6,00:00:00,PDT,Colombia,Meta,Villavicencio,Villavicencio,NA,NA,420,YES,powder,Universidad Icesi,"P2,a6;E1,H5",7.0,many,0,0,0
+GAL,46,Tangara,cayana,Passeriformes,U,,Fri,2015-3-6,00:00:00,PST,Colombia,Cundinamarca,Medina,Medina,NA,NA,584,YES,powder,Universidad Icesi,"P2,a3",6.0,0.0,0,0,0
+GAL,47,Phacellodomus,rufifrons,Passeriformes,U,31.5,Mon,2015-3-9,00:00:00,PDT,Colombia,Meta,Villavicencio,Villavicencio,NA,NA,420,YES,powder,Universidad Icesi,"E1,H1",0.0,many,0,0,0
+GAL,50,Cacicus,cela,Passeriformes,U,35,Mon,2013-3-11,00:00:00,PDT,Colombia,Meta,PuertoGaitan,Puerto Gaitan,NA,NA,213,YES,powder,Universidad Icesi,"P2,D7",37.0,0.0,0,0,0
+GAL,50,Thraupis,palmarum,Passeriformes,U,40,Wed,2015-3-25,00:00:00,PDT,Colombia,Meta,PuertoGaitan,Puerto Gaitan,NA,NA,141,YES,powder,Universidad Icesi,"P2,G10",1.0,0.0,0,0,0
+GAL,51,Jacana,jacana,Charadriiformes,U,62,Mon,2013-3-11,00:00:00,PDT,Colombia,Meta,PuertoGaitan,Puerto Gaitan,NA,NA,213,YES,powder,Universidad Icesi,"P2,E8",over 50,0.0,0,0,0
+GAL,51,Tangara,cayana,Passeriformes,U,16.5,Wed,2015-3-25,00:00:00,PDT,Colombia,Meta,PuertoGaitan,Puerto Gaitan,NA,NA,141,YES,powder,Universidad Icesi,"P2,H3",2.0,0.0,0,0,0
+GAL,52,Dryocopus,lineatus,Piciformes,U,180,Fri,2013-5-3,00:00:00,PDT,Colombia,Meta,PuertoGaitan,Puerto Gaitan,NA,NA,213,YES,powder,Universidad Icesi,"P2,a9",12.0,0.0,0,0,0
+GAL,54,Progne,tapera,Passeriformes,U,36,Sun,2013-5-5,00:00:00,PDT,Colombia,Meta,PuertoGaitan,Puerto Gaitan,NA,NA,213,YES,powder,Universidad Icesi,"P2,F7",5.0,0.0,0,0,0
+GAL,1134,Saltator,maximus,Passeriformes,U,34,Fri,2013-3-8,00:00:00,PST,Colombia,Meta,PuertoGaitan,Puerto Gaitan,NA,NA,213,YES,powder,Universidad Icesi,"P2,B4",1.0,0.0,0,0,0
+GAL,1137,Momotus,momota,Coraciiformes,U,110,Fri,2013-3-8,00:00:00,PST,Colombia,Meta,PuertoGaitan,Puerto Gaitan,NA,NA,213,YES,powder,Universidad Icesi,"P2,B2",10.0,0.0,0,0,0
+GAL,1138,Gallinago,paraguaiae,Charadriiformes,U,98,Sat,2013-3-9,00:00:00,PST,Colombia,Meta,PuertoGaitan,Puerto Gaitan,NA,NA,213,YES,powder,Universidad Icesi,"P2,a10",over 100,0.0,0,0,0
+GAL,1146,Colinus,cristatus,Galliformes,U,132,Mon,2013-3-11,00:00:00,PDT,Colombia,Meta,PuertoGaitan,Puerto Gaitan,NA,NA,213,YES,powder,Universidad Icesi,"P2,B1",15.0,0.0,0,0,0
+GAL,1149,Brachygalba,lugubris,Galbuliformes,U,16.75,Fri,2013-5-3,00:00:00,PDT,Colombia,Meta,PuertoGaitan,Puerto Gaitan,NA,NA,213,YES,powder,Universidad Icesi,"E1,J6",0.0,5.0,0,0,0
+GAL,1153,Colinus,cristatus,Galliformes,U,12.5,Sat,2013-5-4,00:00:00,PDT,Colombia,Meta,PuertoGaitan,Puerto Gaitan,NA,NA,213,YES,powder,Universidad Icesi,"P2,B3",30.0,0.0,0,0,0
+GAL,1157,Chaetura,meridionalis,Apodiformes,U,20.25,Mon,2013-5-6,00:00:00,PDT,Colombia,Meta,PuertoGaitan,Puerto Gaitan,NA,NA,213,YES,powder,Universidad Icesi,"P2,A7",2.0,0.0,0,0,0
+GAL,1192,Pachyramphus,polychopterus,Passeriformes,U,20.25,Mon,2013-12-2,00:00:00,PST,Colombia,Meta,PuertoGaitan,Puerto Gaitan,NA,NA,213,YES,powder,Universidad Icesi,"P2,C6",1.0,0.0,0,0,0
+GAL,1194,Arremonops,conirostris,Passeriformes,U,30,Tue,2013-12-3,00:00:00,PST,Colombia,Meta,PuertoGaitan,Puerto Gaitan,NA,NA,213,YES,powder,Universidad Icesi,"P2,F9",20.0,0.0,0,0,0
+GAL,1195,Ramphocelus,carbo,Passeriformes,U,23,Tue,2013-12-3,00:00:00,PST,Colombia,Meta,PuertoGaitan,Puerto Gaitan,NA,NA,213,YES,powder,Universidad Icesi,"P2,E7",3.0,0.0,0,0,0
+GAL,1197,Picumnus,squamulatus,Piciformes,U,12,Tue,2013-12-3,00:00:00,PST,Colombia,Meta,PuertoGaitan,Puerto Gaitan,NA,NA,213,YES,powder,Universidad Icesi,"P2,C2",2.0,0.0,0,0,0
+GAL,1198,Momotus,momota,Coraciiformes,U,120.25,Tue,2013-12-3,00:00:00,PST,Colombia,Meta,PuertoGaitan,Puerto Gaitan,NA,NA,213,YES,powder,Universidad Icesi,"P2,D2",24.0,0.0,0,0,0
+GAL,1199,Ramphocelus,carbo,Passeriformes,U,24.5,Tue,2013-12-3,00:00:00,PST,Colombia,Meta,PuertoGaitan,Puerto Gaitan,NA,NA,213,YES,powder,Universidad Icesi,"P2,D10",6.0,0.0,0,0,0
+GAL,1202,Thraupis,palmarum,Passeriformes,U,35,Tue,2013-12-3,00:00:00,PST,Colombia,Meta,PuertoGaitan,Puerto Gaitan,NA,NA,213,YES,powder,Universidad Icesi,"P2,F1",30.0,0.0,0,0,0
+GAL,1205,Eupsittula,pertinax,Psittaciformes,U,36,Wed,2013-12-4,00:00:00,PST,Colombia,Meta,PuertoGaitan,Puerto Gaitan,NA,NA,213,YES,powder,Universidad Icesi,"P2,E10",4.0,0.0,0,0,0
+GAL,1210,Euphonia,chlorotica,Passeriformes,U,10.25,Wed,2013-12-4,00:00:00,PST,Colombia,Meta,PuertoGaitan,Puerto Gaitan,NA,NA,213,YES,powder,Universidad Icesi,"P2,E9",4.0,0.0,0,0,0
+GAL,1213,Turdus,nudigenis,Passeriformes,U,62,Thu,2013-12-5,00:00:00,PST,Colombia,Meta,PuertoGaitan,Puerto Gaitan,NA,NA,213,YES,powder,Universidad Icesi,"P2,C3",50.0,0.0,0,0,0
+GAL,1217,Chloroceryle,aenea,Coraciiformes,U,14,Thu,2013-12-5,00:00:00,PST,Colombia,Meta,PuertoGaitan,Puerto Gaitan,NA,NA,213,YES,powder,Universidad Icesi,"P2,C7",6.0,0.0,0,0,0
+GAL,1218,Gymnomystax,mexicanus,Passeriformes,U,132,Fri,2013-12-6,00:00:00,PST,Colombia,Meta,PuertoGaitan,Puerto Gaitan,NA,NA,213,YES,powder,Universidad Icesi,"P2,E3",28.0,0.0,0,0,0
+GAL,1219,Emberizoides,herbicola,Passeriformes,U,27.25,Thu,2013-12-5,00:00:00,PST,Colombia,Meta,PuertoGaitan,Puerto Gaitan,NA,NA,213,YES,powder,Universidad Icesi,"E1,I9",0.0,0.0,1,0,0
+GAL,1225,Hemitriccus,striaticollis,Passeriformes,U,9,Wed,2013-12-4,00:00:00,PST,Colombia,Meta,PuertoGaitan,Puerto Gaitan,NA,NA,213,YES,powder,Universidad Icesi,"E1,J2;P2,F2",8.0,0.0,0,0,0
+GAL,1227,Elaenia,chiriquensis,Passeriformes,U,13.5,Fri,2013-12-6,00:00:00,PST,Colombia,Meta,PuertoGaitan,Puerto Gaitan,NA,NA,213,YES,powder,Universidad Icesi,"P2,D6",10.0,0.0,0,0,0
+GAL,1228,Coereba,flaveola,Passeriformes,U,12.5,Fri,2013-12-6,00:00:00,PST,Colombia,Meta,PuertoGaitan,Puerto Gaitan,NA,NA,213,YES,powder,Universidad Icesi,"P2,E1",1.0,0.0,0,0,0
+GAL,A2513,Setophaga,fusca,Passeriformes,F,18.09,Sun,2015-4-5,00:00:00,PDT,Colombia,Risaralda,PuebloRico,Tatama,-76.09208333,5.240222222,1500,YES,powder,Universidad Icesi,"E3,38",1.0,0.0,0,0,0
+GAL,A2515,Mionectes,olivaceus,Passeriformes,F,29.08,Sun,2015-4-5,00:00:00,PDT,Colombia,Risaralda,PuebloRico,Tatama,-76.09208333,5.240222222,1500,YES,powder,Universidad Icesi,"E3,37",0.0,0.0,1,0,0
+GAL,A2516,Myiotriccus,ornatus,Passeriformes,U,19.37,Sun,2015-4-5,00:00:00,PDT,Colombia,Risaralda,PuebloRico,Tatama,-76.09208333,5.240222222,1500,YES,powder,Universidad Icesi,NA,0.0,0.0,0,0,0
+GAL,A2517,Machaeropterus,deliciosus,Passeriformes,F,23.96,Mon,2015-4-6,00:00:00,PDT,Colombia,Risaralda,PuebloRico,Tatama,-76.09208333,5.240222222,1500,YES,powder,Universidad Icesi,"E3,40; E3,41",1.0,0.0,1,0,0
+GAL,A2518,Masius,chrysopterus,Passeriformes,M,18.91,Tue,2015-4-7,00:00:00,PDT,Colombia,Risaralda,PuebloRico,Tatama,-76.09208333,5.240222222,1500,YES,powder,Universidad Icesi,NA,0.0,0.0,0,0,0
+GAL,A2519,Machaeropterus,deliciosus,Passeriformes,F,24.32,Tue,2015-4-7,00:00:00,PDT,Colombia,Risaralda,PuebloRico,Tatama,-76.09208333,5.240222222,1500,YES,powder,Universidad Icesi,NA,0.0,0.0,0,0,0
+GAL,A2521,Phylloscartes,ophthalmicus,Passeriformes,U,27.24,Thu,2015-4-9,00:00:00,PDT,Colombia,Risaralda,PuebloRico,Tatama,-76.09191667,5.23225,1400,YES,powder,Universidad Icesi,"E3,46",1.0,0.0,0,0,0
+GAL,A2522,Mionectes,striaticollis,Passeriformes,F,27.11,Thu,2015-4-9,00:00:00,PDT,Colombia,Risaralda,PuebloRico,Tatama,-76.09191667,5.23225,1400,YES,powder,Universidad Icesi,NA,0.0,0.0,0,0,0
+GAL,A2523,Sporophila,funerea,Passeriformes,U,22.84,Thu,2015-4-9,00:00:00,PDT,Colombia,Risaralda,PuebloRico,Tatama,-76.09191667,5.23225,1400,YES,powder,Universidad Icesi,NA,0.0,0.0,0,0,0
+GAL,A2524,Myiotriccus,ornatus,Passeriformes,U,18.74,Thu,2015-4-9,00:00:00,PDT,Colombia,Risaralda,PuebloRico,Tatama,-76.09191667,5.23225,1400,YES,powder,Universidad Icesi,NA,0.0,0.0,0,0,0
+GAL,A2525,Lophotriccus,pileatus,Passeriformes,M,18.09,Thu,2015-4-9,00:00:00,PDT,Colombia,Risaralda,PuebloRico,Tatama,-76.09191667,5.23225,1400,YES,powder,Universidad Icesi,"E3,48",2.0,0.0,0,0,0
+GAL,A2526,Basileuterus,tristiatus,Passeriformes,U,28.23,Thu,2015-4-9,00:00:00,PDT,Colombia,Risaralda,PuebloRico,Tatama,-76.09191667,5.23225,1400,YES,powder,Universidad Icesi,NA,0.0,0.0,0,0,0
+GAL,A2527,Basileuterus,tristiatus,Passeriformes,U,24.25,Fri,2015-4-10,00:00:00,PDT,Colombia,Risaralda,PuebloRico,Tatama,-76.09191667,5.23225,1400,YES,powder,Universidad Icesi,"E3,51",3.0,0.0,0,0,0
+GAL,A2528,Mionectes,olivaceus,Passeriformes,F,26.81,Fri,2015-4-10,00:00:00,PDT,Colombia,Risaralda,PuebloRico,Tatama,-76.09191667,5.23225,1400,YES,powder,Universidad Icesi,"E3,49",1.0,0.0,0,0,0
+GAL,A2529,Mionectes,olivaceus,Passeriformes,F,33.97,Fri,2015-4-10,00:00:00,PDT,Colombia,Risaralda,PuebloRico,Tatama,-76.09191667,5.23225,1400,YES,powder,Universidad Icesi,"E3,52",0.0,0.0,1,0,0
+GAL,A2530,Glyphorynchus,spirurus,Passeriformes,U,26.28,Fri,2015-4-10,00:00:00,PDT,Colombia,Risaralda,PuebloRico,Tatama,-76.09191667,5.23225,1400,YES,powder,Universidad Icesi,NA,0.0,0.0,0,0,0
+GAL,A2531,Mionectes,olivaceus,Passeriformes,F,27.6,Fri,2015-4-10,00:00:00,PDT,Colombia,Risaralda,PuebloRico,Tatama,-76.09191667,5.23225,1400,YES,powder,Universidad Icesi,NA,0.0,0.0,0,0,0
+GAL,A2558,Mionectes,olivaceus,Passeriformes,U,33.75,Tue,2015-4-21,00:00:00,PDT,Colombia,Risaralda,PuebloRico,Tatama,-76.078,5.223055556,1600,YES,powder,Universidad Icesi,NA,0.0,0.0,0,0,0
+GAL,A2570,Glyphorynchus,spirurus,Passeriformes,U,25.8,Wed,2015-4-22,00:00:00,PDT,Colombia,Risaralda,PuebloRico,Tatama,-76.078,5.223055556,1600,YES,powder,Universidad Icesi,NA,0.0,0.0,0,0,0
+GAL,A2571,Mionectes,olivaceus,Passeriformes,M,32.92,Wed,2015-4-22,00:00:00,PDT,Colombia,Risaralda,PuebloRico,Tatama,-76.078,5.223055556,1600,YES,powder,Universidad Icesi,NA,0.0,0.0,0,0,0
+GAL,A2573,Myiotriccus,ornatus,Passeriformes,U,20.75,Wed,2015-4-22,00:00:00,PDT,Colombia,Risaralda,PuebloRico,Tatama,-76.078,5.223055556,1600,YES,powder,Universidad Icesi,NA,0.0,0.0,0,0,0
+GAL,A2574,Mionectes,olivaceus,Passeriformes,M,31.03,Thu,2015-4-23,00:00:00,PDT,Colombia,Risaralda,PuebloRico,Tatama,-76.078,5.223055556,1600,YES,powder,Universidad Icesi,NA,0.0,0.0,0,0,0
+GAL,A2577,Dysithamnus,mentalis,Passeriformes,F,30.71,Thu,2015-4-23,00:00:00,PDT,Colombia,Risaralda,PuebloRico,Tatama,-76.078,5.223055556,1600,YES,powder,Universidad Icesi,NA,0.0,0.0,0,0,0
+GAL,A2598,Basileuterus,tristiatus,Passeriformes,U,25.56,Fri,2015-4-10,00:00:00,PDT,Colombia,Risaralda,PuebloRico,Tatama,-76.09191667,5.23225,1400,YES,powder,Universidad Icesi,NA,0.0,0.0,0,0,0
+GAL,A2602,Haplospiza,rustica,Passeriformes,U,34.41,Wed,2015-5-6,00:00:00,PDT,Colombia,Risaralda,PuebloRico,Tatama,-76.07927778,5.219972222,1500,YES,powder,Universidad Icesi,"E3,59: E3,60",2.0,over 10,0,0,0
+GAL,A2604,Sporophila,funerea,Passeriformes,F,24.44,Wed,2015-5-6,00:00:00,PDT,Colombia,Risaralda,PuebloRico,Tatama,-76.07927778,5.219972222,1500,YES,powder,Universidad Icesi,NA,0.0,0.0,0,0,0
+GAL,A2610,Catamblyrhynchus,diadema,Passeriformes,U,38.13,Thu,2015-5-14,00:00:00,PDT,Colombia,Risaralda,PuebloRico,Tatama,-76.11211111,5.256888889,2400,YES,powder,Universidad Icesi,"E3,65",0.0,0.0,0,0,0
+GAL,A2611,Myioborus,ornatus,Passeriformes,U,,Sat,2015-5-16,00:00:00,PDT,Colombia,Risaralda,PuebloRico,Tatama,-76.11355556,5.256194444,2500,YES,powder,Universidad Icesi,"E3,69",0.0,over 10,0,0,0
+GAL,A2612,Diglossa,albilatera,Passeriformes,F,20.71,Sat,2015-5-16,00:00:00,PDT,Colombia,Risaralda,PuebloRico,Tatama,-76.11355556,5.256194444,2500,YES,powder,Universidad Icesi,NA,0.0,0.0,0,0,0
+GAL,A2620,Ochthoeca,diadema,Passeriformes,U,20.52,Tue,2015-5-19,00:00:00,PDT,Colombia,Risaralda,PuebloRico,Tatama,-76.11355556,5.256194444,2500,YES,powder,Universidad Icesi,NA,0.0,0.0,0,0,0
+GAL,A2621,Diglossa,albilatera,Passeriformes,M,22.41,Wed,2015-5-20,00:00:00,PDT,Colombia,Risaralda,PuebloRico,Tatama,-76.11013889,5.257611111,2300,YES,powder,Universidad Icesi,NA,0.0,0.0,0,0,0
+GAL,A2622,Henicorhina,sp.,Passeriformes,U,29.95,Wed,2015-5-20,00:00:00,PDT,Colombia,Risaralda,PuebloRico,Tatama,-76.11013889,5.257611111,2300,YES,powder,Universidad Icesi,NA,0.0,0.0,0,0,0
